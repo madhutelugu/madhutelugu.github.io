@@ -13,6 +13,6 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Deploy docs
-        uses: madhutelugu/mkdocs-deploy-gh-pages@main
+        uses: madhutelugu/madhutelugu.github.io@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
