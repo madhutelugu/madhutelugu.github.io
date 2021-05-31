@@ -1,4 +1,4 @@
-# Welcome to Mk_Madhu
+# Welcome to Madhu Tech Journals
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
